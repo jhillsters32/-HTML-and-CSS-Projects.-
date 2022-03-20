@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+    text-align: right;
+  }
+ol {
+ list-style: upper-greek;
+}
+ul{
+  list-style: square;  
+
+}
+  
